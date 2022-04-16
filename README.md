@@ -7,6 +7,6 @@
 -----------------------------------------------------------------------------------------------------------
 In my GitHub, I plan to post my practice of Machine Learning and the Processing of Medical Images via Python (TensorFlow, Pytorch) and Matlab.
 
-Visit Math-computing ile
+Visit Math-computing file
 
 
