@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MSc Medical Imaging Science in University of Manchester (UoM), in England, UK.
 
 - 📫 How to reach me:
--           https://www.linkedin.com/in/shu-wei-huang-b373b3113/
+           https://www.linkedin.com/in/shu-wei-huang-b373b3113/
 -----------------------------------------------------------------------------------------------------------
 In my GitHub, I plan to post my practice of Machine Learning and the Processing of Medical Images via Python (TensorFlow, Pytorch) and Matlab.
 
