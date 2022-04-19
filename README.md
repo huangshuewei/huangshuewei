@@ -6,6 +6,6 @@
 
                   https://www.linkedin.com/in/shu-wei-huang-b373b3113/ 
 -----------------------------------------------------------------------------------------------------------
-In my GitHub, I plan to post my practice of Machine Learning and the Processing of Medical Images via Python (TensorFlow, Pytorch) and Matlab.
+In my GitHub, I plan to post my practice of Machine Learning and the Processing of Medical Images via Python (TensorFlow, Pytorch or Keras) and Matlab.
 
 Visit Math-computing file
