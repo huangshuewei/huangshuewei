@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huangshuewei, Shu-wei Huang from Taiwan.
-- 👀 I’m interested in machine learning, specifically in medical imaging science field.
-- 🌱 I’m currently learning MSc Medical Imaging Science in University of Manchester (UoM), in England, UK.
+- 👀 I’m interested in code programming, specifically in the medical imaging science field.
+- 🌱 I’m currently learning MSc Medical Imaging Science at the University of Manchester (UoM), in England, UK.
 
 - 📫 How to reach me:
 
@@ -9,5 +9,3 @@
 In my GitHub, I plan to post my practice of Machine Learning and the Processing of Medical Images via Python (TensorFlow, Pytorch) and Matlab.
 
 Visit Math-computing file
-
-
