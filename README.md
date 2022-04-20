@@ -8,5 +8,5 @@
 -----------------------------------------------------------------------------------------------------------
 In my GitHub, I plan to post my practice of Machine Learning and the Processing of Medical Images via Python (TensorFlow, Pytorch or Keras) and Matlab.
 
-# - Visit Math-computing file: basic ideas
-# - Visit Examples-of-ML files: basic applications
+### - Visit Math-computing file: basic ideas
+### - Visit Examples-of-ML files: basic applications
