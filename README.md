@@ -8,4 +8,6 @@
 -----------------------------------------------------------------------------------------------------------
 In my GitHub, I plan to post my practice of Machine Learning and the Processing of Medical Images via Python (TensorFlow, Pytorch or Keras) and Matlab.
 
-### - Visit Math-computing file : basic ideas
+### - MSc-Dissertation illustrates the pipeline of processing and assessing finger function.
+### - Visit Math-computing file : what I learned in the course Medical Image Analysis & Comp (UoM).
+### - Python-applications shows several applications, such as image processing, ML and DL, by Python.
