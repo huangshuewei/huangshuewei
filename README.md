@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huangshuewei, Shu-wei Huang from Taiwan.
 - 👀 I’m interested in code programming, specifically in the medical imaging science field.
-- 🌱 I’m currently learning MSc Medical Imaging Science at the University of Manchester (UoM), in England, UK.
+- 🌱 MSc Medical Imaging Science
 
 - 📫 How to reach me:
 
