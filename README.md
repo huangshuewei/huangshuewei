@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huangshuewei, Shu-wei Huang from Taiwan.
 - 👀 I’m interested in code programming, specifically in the medical imaging science field.
-- 🌱 MSc Medical Imaging Science
+- 🌱 MSc of Medical Imaging and Biomedical Engineering | BEng of Electrical Engineering
 
 - 📫 How to reach me:
 
